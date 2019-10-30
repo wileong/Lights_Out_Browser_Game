@@ -20,7 +20,7 @@
 
 3. You win the game when all tiles have been turned "off".
 
-## Screenshots:
+## Screenshots of using CodePen to run game:
 
 ### Example Initial BoardSetup:
 
