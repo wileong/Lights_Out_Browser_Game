@@ -1,0 +1,21 @@
+/* hashtag/pound is an ID SELECTOR for board */
+
+#board {
+  border: 1px black solid;
+}
+/* .cell is a CLASS SELECTOR. */
+/* use dot for classes*/
+/* for "off" */
+/* CLASS SELECTOR targets multiple elts with a
+particular class*/
+.cell {
+  background-color: navy;
+  width: 50px;
+  height: 50px;
+}
+
+/* use this to indicate which one is on or off*/
+/* puting 2 class selectors together */
+.cell.on {
+  background-color: tomato;
+}
