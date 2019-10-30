@@ -1,6 +1,18 @@
 # Lights_Out_Browser_Game
 
-How to play this game:
+# To run this game:
+
+1. Visit online tools for testing HTML/CSS/JavaScript like [JSFiddle](https://jsfiddle.net/) and [CodePen](https://codepen.io/pen/).
+
+2. Copy and paste contents of present HTML, CSS and JavaScript files into the corresponding text boxes.
+
+3. Either hit the "run" button or the website will automatically run the pasted JavaScript code (along with the HTML and CSS).
+
+4. You should see a rendered board of various blue and orange tiles arranged randomly on your browser.
+
+5. Now you are ready to play!
+
+# How to play this game:
 
 1. When page first loads, you will see a randomized board of blue and orange tiles. Orange tiles indicate that they are "on" while blue tiles indicate they are "off".
 
