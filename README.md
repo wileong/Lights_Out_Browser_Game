@@ -22,7 +22,7 @@
 
 ## Screenshots of using CodePen to run game:
 
-### Example Initial BoardSetup:
+### Example Initial Board Setup:
 
 ![Example Initial BoardSetup](Screenshots/ExampleInitialBoardSetup_With_Annotations.png)
 
