@@ -12,14 +12,16 @@ function randomNumber(max) {
 
 //functions will always return something
 // so if nothing, it returns undefined
-// Toggle a single cell on <-> off
-//y is the row, x  is the column
+// Toggle a single cell on or off
+// y is the row, x  is the column
 // find the cell at y,x and change it off<->on
 function toggleCell(y, x) {
   if (x >= 0 && x < WIDTH && y >= 0 && y < HEIGHT) {
-    let id = "#cell-" + y + "-" + x;//i.e. "#call-4-1"; ... why # here? not the actual id
-    //use # to find by string-> this is id selector
-    //without #, it's an id, according to Joel
+    let id = "#cell-" + y + "-" + x;
+    //i.e. "#cell-4-1"; purpose of #: this is not the actual id
+    //use # to find by string -> this is the id selector
+    //without #, it would get the first such element in the document
+    
     console.log("toggleCell", id);
     
     //querySelector is built into browser.
